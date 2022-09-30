@@ -8,6 +8,10 @@
 
 <p align="left"> <a href="https://twitter.com/__vishwanath___" target="blank"><img src="https://img.shields.io/twitter/follow/__vishwanath___?logo=twitter&style=for-the-badge" alt="__vishwanath___" /></a> </p>
 
+- 🔭 I’m currently working on **MERN stack projects**
+
+- 👯 I’m looking to collaborate on **projects, startups**
+
 - 🌱 I’m currently learning **React Native, DevOps**
 
 - 💬 Ask me about **MERN, Data Structures & Algorithms, UI/UX**
