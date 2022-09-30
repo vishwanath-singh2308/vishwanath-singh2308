@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **React Native, DevOps**
 
-- 💬 Ask me about **MERN, Data Structures & Algorithms, UI/UX**
+- 💬 Ask me about **MERN, Data Structures & Algorithms, UI/UX, Computer Networking**
 
 - 📫 How to reach me **vishwanathsingh.2308@gmail.com**
 
