@@ -1,16 +1,10 @@
-![MasterHead](https://media-exp1.licdn.com/dms/image/D5616AQGb87dOu4NKtQ/profile-displaybackgroundimage-shrink_350_1400/0/1664526959434?e=1669852800&v=beta&t=nkeKwPby-3ZAohGnJZ1FzRUtO02kcj_ndxlUkdcAbCQ)
-
-<h1 align="center">Hi 👋, I'm Vishwanath Kumar Singh</h1>
+ <h1 align="center">Hi 👋, I'm Vishwanath Kumar Singh</h1>
 <h3 align="center">Software Engineer | Backend Development | Cloud & Distributed Systems</h3>
 
 <p align="center">
   I build scalable backend services, cloud-native applications, and reliable data-processing systems.
   <br />
   Experienced in enterprise software engineering, document management platforms, API development, and event-driven architectures.
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=vishwanath-singh2308&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 - 💼 **Previously:** Software Engineer at Fidelity Investments
@@ -42,7 +36,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/vishwanath2308" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/github/explore/main/topics/geeks-for-geeks/geeks-for-geeks.png" alt="GeeksforGeeks" height="30" width="40" />
   </a>
 </p>
 
@@ -65,7 +59,6 @@
   <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
   <a href="https://angular.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/></a>
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/></a>
 </p>
 
 <h4 align="left">Cloud, DevOps & Infrastructure</h4>
@@ -92,31 +85,42 @@
 **Software Engineer — Fidelity Investments**  
 *August 2023 – September 2026 | Bengaluru, India*
 
-- Contributed to migrating enterprise document management systems from OpenText Documentum to Nuxeo Cloud SaaS across 30 businesses.
-- Developed Java and Spring Boot automation and reusable APIs to streamline enterprise integrations and document management workflows.
-- Built migration reconciliation tools, bulk document export functionality, and record-management synchronization workflows.
-- Worked with Java, Python, Spring Boot, Nuxeo, Documentum, and Fast2 ETL.
+**Technologies:** Java, Spring Boot, Python, Nuxeo, OpenText Documentum, Fast2 ETL
+
+- Accelerated the migration of enterprise documents across 30 businesses from on-premises OpenText Documentum to Nuxeo Cloud SaaS, increasing migration throughput from 2 to 5 businesses per quarter (2.5× improvement).
+- Developed Java automation for business folder creation, reducing execution time from 30–60 minutes to 2–10 seconds while preserving folder-level permissions.
+- Built reusable Spring Boot and Python APIs to simplify integrations and accelerate enterprise onboarding.
+- Automated Record Management Workspace synchronization to align document retention policies with enterprise records management rules.
+- Developed Fast2 ETL reconciliation tasks to detect document attribute mismatches and improve migration data integrity.
+- Built bulk document export functionality supporting metadata and binary downloads for up to 100,000 documents.
+- Onboarded 18 businesses onto Nuxeo Cloud SaaS and enhanced document search with custom multi-attribute filtering.
 
 **Software Engineer Intern — Fidelity Investments**  
 *February 2023 – July 2023 | Bengaluru, India*
 
-- Contributed to enterprise application development using React.js, Fluent UI, and REST APIs.
-- Supported Jenkins CI/CD pipelines and SonarQube-based code quality checks.
+**Technologies:** React.js, Fluent UI, REST APIs, Jenkins, SonarQube
+
+- Contributed to enterprise application feature development and REST API integration.
+- Enhanced user interfaces using React.js and Fluent UI to improve usability and responsiveness.
+- Supported Jenkins CI/CD pipelines and SonarQube-based static code analysis and quality validation.
 
 <h3 align="left">Featured Project</h3>
 
 <h4 align="left">TCTGame — Multiplayer Habit-Tracking Platform</h4>
 
-A cross-platform application designed to help people build consistent habits through shared progress tracking and community accountability.
+<p>
+  A cross-platform application designed to help people build consistent habits through shared progress tracking and community accountability.
+</p>
 
-**Tech stack:** Flutter, Python, FastAPI, MongoDB, Redis, Celery, AWS, Docker
+**Tech Stack:** Flutter, Python, FastAPI, MongoDB, Redis, Celery, AWS, Docker
 
-- Built an event-driven AWS media-processing pipeline using S3, MediaConvert, EventBridge, and SQS, handling 100+ daily uploads.
-- Designed modular asynchronous FastAPI services with REST APIs, MongoDB indexing, and optimized data retrieval.
-- Implemented Redis caching and query optimization to maintain average API response times below 500 ms.
-- Orchestrated 16 scheduled workflows using Celery, including retries and failure recovery.
-- Implemented real-time messaging with WebSockets and Socket.IO, alongside JWT authentication, role-based access control, and encryption of stored chat messages and sensitive user data.
-- Launched a cross-platform Flutter application on the Google Play Store and Apple App Store, achieving 500+ combined downloads.
+- Engineered an event-driven AWS media pipeline using S3, MediaConvert, EventBridge, and SQS, handling 100+ daily uploads.
+- Designed a modular, asynchronous FastAPI backend with REST APIs, MongoDB indexing, and separation of concerns.
+- Optimized performance with Redis caching, TTL-based invalidation, and query optimization, maintaining average API response times below 500 ms.
+- Orchestrated 16 scheduled workflows using Celery with retries and failure recovery.
+- Implemented real-time messaging using WebSockets and Socket.IO.
+- Secured APIs using JWT authentication and role-based access control, with encryption for stored chat messages and sensitive user data.
+- Built and launched a cross-platform Flutter application on the Google Play Store and Apple App Store, achieving 500+ combined downloads.
 
 <h3 align="left">GitHub Statistics</h3>
 
